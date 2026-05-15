@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moyacode\\cards\\moyacards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moyacode\\cards\\moyacards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moyacode\\cards\\basic\\moyabullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moyacode\\cards\\basic\\moyabullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moyacode\\cards\\common\\blueshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moyacode\\cards\\common\\blueshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moya\\localization\\zhs\\cards.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moya\\localization\\zhs\\cards.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moyacode\\powers\\coinspower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moyacode\\powers\\coinspower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moyacode\\cards\\basic\\moyaattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moyacode\\cards\\basic\\moyaattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moyacode\\cards\\common\\bluer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moyacode\\cards\\common\\bluer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moyacode\\cards\\basic\\moyablock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moyacode\\cards\\basic\\moyablock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moya\\localization\\zhs\\characters.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moya\\localization\\zhs\\characters.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moya\\localization\\zhs\\powers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moya\\localization\\zhs\\powers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moyacode\\character\\moya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moyacode\\character\\moya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moyacode\\powers\\moyapowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moyacode\\powers\\moyapowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moyacode\\cardpools\\moyacardpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moyacode\\cardpools\\moyacardpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moya\\images\\cards\\card.png.import||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moya\\images\\cards\\card.png.import||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\moyacode\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:moyacode\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|c:\\users\\\u96EF\\desktop\\\u58542mod\\mm\\moya\\mainfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BB3111-C89E-4BB3-8990-B263E45FA36F}|Moya.csproj|solutionrelative:mainfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlueShooter.cs",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Cards\\Common\\BlueShooter.cs",
+              "RelativeDocumentMoniker": "MoyaCode\\Cards\\Common\\BlueShooter.cs",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Cards\\Common\\BlueShooter.cs",
+              "RelativeToolTip": "MoyaCode\\Cards\\Common\\BlueShooter.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T04:37:06.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoyaAttack.cs",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Cards\\Basic\\MoyaAttack.cs",
+              "RelativeDocumentMoniker": "MoyaCode\\Cards\\Basic\\MoyaAttack.cs",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Cards\\Basic\\MoyaAttack.cs",
+              "RelativeToolTip": "MoyaCode\\Cards\\Basic\\MoyaAttack.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:25:55.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cards.json",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\Moya\\localization\\zhs\\cards.json",
+              "RelativeDocumentMoniker": "Moya\\localization\\zhs\\cards.json",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\Moya\\localization\\zhs\\cards.json",
+              "RelativeToolTip": "Moya\\localization\\zhs\\cards.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T13:33:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "characters.json",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\Moya\\localization\\zhs\\characters.json",
+              "RelativeDocumentMoniker": "Moya\\localization\\zhs\\characters.json",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\Moya\\localization\\zhs\\characters.json",
+              "RelativeToolTip": "Moya\\localization\\zhs\\characters.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T13:34:14.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoyaBullet.cs",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Cards\\Basic\\MoyaBullet.cs",
+              "RelativeDocumentMoniker": "MoyaCode\\Cards\\Basic\\MoyaBullet.cs",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Cards\\Basic\\MoyaBullet.cs",
+              "RelativeToolTip": "MoyaCode\\Cards\\Basic\\MoyaBullet.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:03:38.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoyaBlock.cs",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Cards\\Basic\\MoyaBlock.cs",
+              "RelativeDocumentMoniker": "MoyaCode\\Cards\\Basic\\MoyaBlock.cs",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Cards\\Basic\\MoyaBlock.cs",
+              "RelativeToolTip": "MoyaCode\\Cards\\Basic\\MoyaBlock.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABIwBYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:44:01.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoyaPowers.cs",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Powers\\MoyaPowers.cs",
+              "RelativeDocumentMoniker": "MoyaCode\\Powers\\MoyaPowers.cs",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Powers\\MoyaPowers.cs",
+              "RelativeToolTip": "MoyaCode\\Powers\\MoyaPowers.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T12:22:22.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlueR.cs",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Cards\\Common\\BlueR.cs",
+              "RelativeDocumentMoniker": "MoyaCode\\Cards\\Common\\BlueR.cs",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Cards\\Common\\BlueR.cs",
+              "RelativeToolTip": "MoyaCode\\Cards\\Common\\BlueR.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvykAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T19:35:47.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoinsPower.cs",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Powers\\CoinsPower.cs",
+              "RelativeDocumentMoniker": "MoyaCode\\Powers\\CoinsPower.cs",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Powers\\CoinsPower.cs",
+              "RelativeToolTip": "MoyaCode\\Powers\\CoinsPower.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T12:19:38.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "powers.json",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\Moya\\localization\\zhs\\powers.json",
+              "RelativeDocumentMoniker": "Moya\\localization\\zhs\\powers.json",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\Moya\\localization\\zhs\\powers.json",
+              "RelativeToolTip": "Moya\\localization\\zhs\\powers.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T13:16:59.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Moya.cs",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Character\\Moya.cs",
+              "RelativeDocumentMoniker": "MoyaCode\\Character\\Moya.cs",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Character\\Moya.cs",
+              "RelativeToolTip": "MoyaCode\\Character\\Moya.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:26:13.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainFile.cs",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MainFile.cs",
+              "RelativeDocumentMoniker": "MainFile.cs",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MainFile.cs",
+              "RelativeToolTip": "MainFile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAABYwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:27:42.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoyaCards.cs",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Cards\\MoyaCards.cs",
+              "RelativeDocumentMoniker": "MoyaCode\\Cards\\MoyaCards.cs",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Cards\\MoyaCards.cs",
+              "RelativeToolTip": "MoyaCode\\Cards\\MoyaCards.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:35:12.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "card.png.import",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\Moya\\Images\\Cards\\card.png.import",
+              "RelativeDocumentMoniker": "Moya\\Images\\Cards\\card.png.import",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\Moya\\Images\\Cards\\card.png.import",
+              "RelativeToolTip": "Moya\\Images\\Cards\\card.png.import",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T15:20:23.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "MoyaCode\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "MoyaCode\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:25:51.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MoyaCardPool.cs",
+              "DocumentMoniker": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\CardPools\\MoyaCardPool.cs",
+              "RelativeDocumentMoniker": "MoyaCode\\CardPools\\MoyaCardPool.cs",
+              "ToolTip": "C:\\Users\\\u96EF\\Desktop\\\u58542mod\\mm\\moya\\MoyaCode\\CardPools\\MoyaCardPool.cs",
+              "RelativeToolTip": "MoyaCode\\CardPools\\MoyaCardPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABYwAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:50:18.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

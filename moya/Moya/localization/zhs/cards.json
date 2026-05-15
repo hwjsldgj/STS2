@@ -1,0 +1,12 @@
+{
+  "MOENEGIMOD-MOYA_ATTACK.description": "造成{Damage:diff()}点伤害",
+  "MOENEGIMOD-MOYA_ATTACK.title": "打击",
+  "MOENEGIMOD-MOYA_BLOCK.description": "获得{Block:diff()}点防御",
+  "MOENEGIMOD-MOYA_BLOCK.title": "防御",
+  "MOENEGIMOD-MOYA_BULLET.description": "获得{CoinsPower:diff()}层硬币\n获得{Block:diff()}点格挡",
+  "MOENEGIMOD-MOYA_BULLET.title": "硬币",
+  "MOENEGIMOD-BLUE_R.description": "造成{Damage:diff()}点伤害3次",
+  "MOENEGIMOD-BLUE_R.title": "贯穿者",
+  "MOENEGIMOD-BLUE_SHOOTER.description": "造成{Damage:diff()}点伤害\n对随机敌人造成同等伤害",
+  "MOENEGIMOD-BLUE_SHOOTER.title": "热能溅射"
+}
