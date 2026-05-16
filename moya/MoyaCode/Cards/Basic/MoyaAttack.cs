@@ -33,6 +33,6 @@ public class MoyaAttack() : MoyaCard(cost: 1,
 
 	protected override void OnUpgrade()
 	{
-		DynamicVars.Damage.UpgradeValueBy(2m);
+		DynamicVars.Damage.UpgradeValueBy(3m);
 	}
 }

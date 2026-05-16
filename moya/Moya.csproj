@@ -47,4 +47,7 @@
     <PackageReference Include="Alchyr.Sts2.ModAnalyzers" Version="0.1.9" />
     <PackageReference Include="AWSSDK.S3" Version="4.0.23" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Moya\Images\Powers\Big\" />
+  </ItemGroup>
 </Project>

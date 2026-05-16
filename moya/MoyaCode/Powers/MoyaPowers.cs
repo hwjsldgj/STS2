@@ -3,6 +3,7 @@ using BaseLib.Extensions;
 using Godot;
 using MegaCrit.Sts2.Core.Entities.Creatures;
 using MegaCrit.Sts2.Core.GameActions.Multiplayer;
+using MegaCrit.Sts2.Core.Logging;
 using MegaCrit.Sts2.Core.Models;
 using MoeNegiMod.Moya.Extensions;
 using System;
@@ -13,26 +14,32 @@ namespace MoeNegiMod.Moya.Powers;
 
 public abstract class MoyaPowers : CustomPowerModel
 {
-    public override string CustomPackedIconPath
+    private bool PreviewDegenerate;
+
+    public override string CustomPackedIconPath 
     {
         get
         {
-            var path = $"{Id.Entry.RemovePrefix().ToLowerInvariant()}.png".PowerImagePath();
-            return ResourceLoader.Exists(path) ? path : "power.png".PowerImagePath(); 
+            var degenerateType = PreviewDegenerate ? "_degenerate" : "";
+            var path = $"{Id.Entry.RemovePrefix().ToLowerInvariant() + degenerateType}.png".PowerImagePath();
+            Log.Info(">>>[MoeNegiMod]CardPath=" + path, 2);
+            return ResourceLoader.Exists(path) ? path : $"card{degenerateType}.png".PowerImagePath();
         }
     }
 
-    public override string CustomBigIconPath
+    public override string CustomBigIconPath 
     {
         get
         {
-            var path = $"{Id.Entry.RemovePrefix().ToLowerInvariant()}.png".BigPowerImagePath();
-            return ResourceLoader.Exists(path) ? path : "power.png".BigPowerImagePath();
+           var degenerateType = PreviewDegenerate ? "_degenerate" : "";
+            var path = $"{Id.Entry.RemovePrefix().ToLowerInvariant() + degenerateType}.png".BigPowerImagePath();
+            Log.Info(">>>[MoeNegiMod]CardPath=" + path, 2);
+            return ResourceLoader.Exists(path) ? path : $"card{degenerateType}.png".BigPowerImagePath();
         }
     }
 
-   
 
-    
-    
+
+
+
 }

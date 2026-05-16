@@ -8,9 +8,11 @@ using MegaCrit.Sts2.Core.GameActions.Multiplayer;
 using MegaCrit.Sts2.Core.HoverTips;
 using MegaCrit.Sts2.Core.Localization.DynamicVars;
 using MegaCrit.Sts2.Core.Models;
+using MegaCrit.Sts2.Core.Models.Cards;
 using MegaCrit.Sts2.Core.Models.Powers;
 using MegaCrit.Sts2.Core.Nodes.Combat;
 using MegaCrit.Sts2.Core.ValueProps;
+using MoeNegiMod.Moya.Powers;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -24,7 +26,11 @@ public class BlueShooter() : MoyaCard(cost: 1,
     CardType.Attack, CardRarity.Common,
     TargetType.AnyEnemy)
 {
-    protected override IEnumerable<DynamicVar> CanonicalVars => [new DamageVar(4, ValueProp.Move)];
+    protected override IEnumerable<DynamicVar> CanonicalVars => [new DamageVar(8, ValueProp.Move), new PowerVar<VulnerablePower>("VulnerablePower",1m)];
+
+    protected override IEnumerable<IHoverTip> ExtraHoverTips => [
+        HoverTipFactory.FromPower<VulnerablePower>()
+    ];
 
     protected override async Task OnPlay(PlayerChoiceContext choiceContext, CardPlay cardPlay)
     {
@@ -43,12 +49,14 @@ public class BlueShooter() : MoyaCard(cost: 1,
         int extraDmg = (int)Math.Ceiling(originalDmg * 0.5m); // 0.5倍额外伤害
         await CommonActions.CardAttack(this, cardPlay.Target).Execute(choiceContext);
         await CommonActions.CardAttack(this, randomTarget).Execute(choiceContext);
+        await PowerCmd.Apply<VulnerablePower>(randomTarget, base.DynamicVars["VulnerablePower"].BaseValue, base.Owner.Creature, this);
 
 
     }
-
+    
     protected override void OnUpgrade()
     {
         DynamicVars.Damage.UpgradeValueBy(2m);
+        base.DynamicVars.Vulnerable.UpgradeValueBy(1m);
     }
 }
