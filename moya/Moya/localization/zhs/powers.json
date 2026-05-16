@@ -1,5 +1,0 @@
-{
-  "MOENEGIMOD-COINS_POWER.description": "当层数为1时,随机对一个敌人额外造成一次伤害\n造成额外伤害",
-  "MOENEGIMOD-COINS_POWER.smartDescription": "有{Amount}层硬币,\n提高{Amount}点伤害",
-  "MOENEGIMOD-COINS_POWER.title": "硬币"
-}

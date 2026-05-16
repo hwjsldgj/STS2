@@ -1,0 +1,5 @@
+C:\Users\雯\Desktop\塔2mod\mm\moya\.godot\mono\temp\obj\ExportDebug\win-x64\Moya.csproj.AssemblyReference.cache
+C:\Users\雯\Desktop\塔2mod\mm\moya\.godot\mono\temp\obj\ExportDebug\win-x64\Moya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\雯\Desktop\塔2mod\mm\moya\.godot\mono\temp\obj\ExportDebug\win-x64\Moya.AssemblyInfoInputs.cache
+C:\Users\雯\Desktop\塔2mod\mm\moya\.godot\mono\temp\obj\ExportDebug\win-x64\Moya.AssemblyInfo.cs
+C:\Users\雯\Desktop\塔2mod\mm\moya\.godot\mono\temp\obj\ExportDebug\win-x64\Moya.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VO5g0dO+EIM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\雯\\Desktop\\塔2mod\\mm\\moya\\Moya.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\雯\\.nuget\\packages\\alchyr.sts2.modanalyzers\\0.1.9\\alchyr.sts2.modanalyzers.0.1.9.nupkg.sha512",
+    "C:\\Users\\雯\\.nuget\\packages\\awssdk.core\\4.0.6.1\\awssdk.core.4.0.6.1.nupkg.sha512",
+    "C:\\Users\\雯\\.nuget\\packages\\awssdk.s3\\4.0.23\\awssdk.s3.4.0.23.nupkg.sha512",
+    "C:\\Users\\雯\\.nuget\\packages\\godot.sourcegenerators\\4.5.1\\godot.sourcegenerators.4.5.1.nupkg.sha512",
+    "C:\\Users\\雯\\.nuget\\packages\\godotsharp\\4.5.1\\godotsharp.4.5.1.nupkg.sha512",
+    "C:\\Users\\雯\\.nuget\\packages\\godotsharpeditor\\4.5.1\\godotsharpeditor.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
